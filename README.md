@@ -19,7 +19,8 @@
 
 パスワード→kudou
 
-# データベース名：salesdata
+# データベース
+データベース名：salesdata
 
 テーブル
 
